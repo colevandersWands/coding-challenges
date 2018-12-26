@@ -17,7 +17,7 @@ fri
 * :white_check_mark: [if hemingway](https://github.com/elewa-academy/if-hemingway-wrote-js)  
     * a fun and light closing activity before moving onto dom & apps next week
     * we do a few pre-selected ones together in class. analyze & remix
-    * see just how much they've learned in the last 4 weeks
+    * they see how much they've learned in the last 4 weeks
  
 
 
